@@ -1,3 +1,4 @@
 blazingsql>=0.11
 holoviews>=1.12
 notebook>=6.0
+ipywidgets>=7.5
