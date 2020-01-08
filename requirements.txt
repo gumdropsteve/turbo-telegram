@@ -1,4 +1,5 @@
 blazingsql>=0.11
+datashader>=0.9.0
 holoviews>=1.12
-notebook>=6.0
 ipywidgets>=7.5
+notebook>=6.0
