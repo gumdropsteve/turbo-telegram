@@ -1,7 +1,8 @@
-blazingsql>=0.11
-colorcet>=2.0.2
-datashader>=0.9.0
-holoviews>=1.12
-ipython>=7.8.0
-ipywidgets>=7.5
-notebook>=5.7.8
+blazingsql>=0.12.0
+colorcet>=2.0.1
+cuxfilter>=0.12.0
+datashader>=0.10.0
+holoviews>=1.12.7
+ipython>=7.12.0
+ipywidgets>=7.5.1
+notebook>=6.0.3
